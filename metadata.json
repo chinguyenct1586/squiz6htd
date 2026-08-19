@@ -1,0 +1,6 @@
+{
+  "name": "S Quest - Bí Kíp He, She & It",
+  "description": "Ứng dụng học tập tương tác gamified giúp học sinh lớp 6 làm chủ ngôi thứ 3 số ít và quy tắc thêm S/ES trong thì Hiện tại đơn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
